@@ -37,3 +37,11 @@
 	1.秒杀接口地址隐藏
 	2.算术验证码
 	3.接口防刷
+
+# Codes
+1. REDIS
+cd /user/local/redis/bin/
+./redis-server redis.conf
+
+2. RABBITMQ
+systemctl start rabbitmq-server.service
